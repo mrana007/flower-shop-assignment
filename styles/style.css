@@ -3,6 +3,7 @@
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
 }
+
 /* nav related style */
 nav {
     width: 1920px;
@@ -58,6 +59,7 @@ nav {
     font-size: 20px;
     font-weight: 700;
 }
+
 /* featured related styles */
 .featured-container {
     width: 1920px;
@@ -150,6 +152,7 @@ nav {
     text-decoration-line: underline;
     margin-top: 32px;
 }
+
 /* deal section related styles */
 
 .offer-container {
@@ -206,6 +209,7 @@ nav {
     margin-right: 429px;
     margin-bottom: 100px;
 }
+
 /* social site section related styles */
 .social-site-container {
     width: 1920px;
@@ -248,4 +252,56 @@ nav {
 .image {
     width: 342px;
     height: 396px;
+}
+
+/* subscribe related styles */
+.welcome-message {
+    width: 1440px;
+    height: 400px;
+    background-image: url('../flower-asset/Rectangle.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    padding: 200px 240px 0px 240px;
+}
+
+.title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 16px;
+}
+
+.coupon {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 48px;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.email {
+    border: 0px;
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+}
+
+.btn {
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0px;
+    padding: 20px 43px;
 }
