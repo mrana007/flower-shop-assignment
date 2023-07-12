@@ -206,3 +206,46 @@ nav {
     margin-right: 429px;
     margin-bottom: 100px;
 }
+/* social site section related styles */
+.social-site-container {
+    width: 1920px;
+    height: 260px;
+    align-self: center;
+    text-align: center;
+}
+
+.insta {
+    width: 180px;
+    height: 48px;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 128px 870px 24px 870px;
+}
+
+.message {
+    display: flex;
+    width: 594px;
+    height: 60px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0px 663px 30px 663px;
+}
+
+.flowers-container {
+    display: flex;
+    width: 1920px;
+    height: 396px;
+    justify-content: center;
+    background: #FFF;
+    gap: 24px;
+}
+
+.image {
+    width: 342px;
+    height: 396px;
+}
